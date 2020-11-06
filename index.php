@@ -12,24 +12,24 @@
         <div class="row">
             <div class="col-sm-5">
                 <div class="row">
-                    <img src="img/creative/creative.jpg" style="height: 100%; width: 96%"
+                    <img src="creative.jpg" style="height: 100%; width: 96%"
                     class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-2">
                 <div class="row">
-                    <img src="img/life/life.jpg" class="img-fluid " />
+                    <img src="life.jpg" class="img-fluid " />
                 </div>
                 <div class="row">
-                    <img src="img/life/life3.jpg" class="img-fluid " />
+                    <img src="life3.jpg" class="img-fluid " />
                 </div>
                 <div class="row">
-                    <img src="img/life/life2.jpg" class="img-fluid " />
+                    <img src="life2.jpg" class="img-fluid " />
                 </div>
             </div>
             <div class="col-sm-5">
-                <img src="img/work/work5.jpg" class="img-fluid " />
-                <img src="img/banner/banner1.jpg"style="height: 37%; width: 100%"
+                <img src="work5.jpg" class="img-fluid " />
+                <img src="banner1.jpg"style="height: 37%; width: 100%"
                     class="img-fluid" />
             </div>
                 
